@@ -1,0 +1,4 @@
+RISK_BAND,Customers,Actual_default_rate,Share %,Recommendation
+Low Risk,3123,2.49759846301633,52.05867644607435,Eligible – fast-track approval
+Medium Risk,1962,9.887869520897045,32.70545090848474,Eligible with conditions (lower amount / collateral / co-applicant)
+High Risk,914,25.164113785557984,15.235872645440907,Not eligible – reject or manual review
